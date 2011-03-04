@@ -6,6 +6,8 @@ import vo.*;
 
 public interface WeeboExecute {
 	
+	
+	
 	//type属性用于区分buzz和sina
 	public String type = "";
 	
